@@ -93,8 +93,8 @@ logo = """
  \033[1;93m[+] AUTHER     :   JIGRII
  [+] FACEBOOK   :   SANWAL SHEBY
  [+] WHATSAPP   :   03037952669
- [+] \033[1;92mBE JIGRII FIGHTER GROUP
-\033[1;90m --------------------------------------------
+ [+] \033[1;92mBE https://github.com/sanwalhacker/sheby.git
+\033[1;90m -------------------------------------------
 """
 def tik():
 	titik = ['.   ','..  ','... ']
